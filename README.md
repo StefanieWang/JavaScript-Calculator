@@ -1,6 +1,6 @@
 # Project: Building An On Screen Calculator Using Javascript
 
-Simple on-screen calculator for The Odin Project's [Project: Building An On Screen Calculator Using Javascript.](http://www.theodinproject.com/courses/javascript-and-jquery/lessons/on-screen-calculator)
+Simple on-screen calculator project from The Odin Project's [Project: Building An On Screen Calculator Using Javascript.](http://www.theodinproject.com/courses/javascript-and-jquery/lessons/on-screen-calculator)
 
 Practice with basic javascript and listeners.
 
